@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\bin\Debug\net5.0\PokemonOpg.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\bin\Debug\net5.0\PokemonOpg.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\bin\Debug\net5.0\PokemonOpg.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\bin\Debug\net5.0\PokemonOpg.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\bin\Debug\net5.0\PokemonOpg.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\bin\Debug\net5.0\ref\PokemonOpg.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\bin\Debug\net5.0\PokemonOpg.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\ref\PokemonOpg.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Interface\PokemonOpg\PokemonOpg\obj\Debug\net5.0\PokemonOpg.genruntimeconfig.cache
